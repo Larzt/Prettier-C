@@ -43,7 +43,7 @@ SpaceAfterTemplateKeyword: false       # No deja espacio después de la palabra 
 AlignTrailingComments: true            # Alinea los comentarios de final de línea
 ```
 
-Guarda el archivo .clang-format en el directorio raíz de tu proyecto (/CYA).
+Guarda el archivo .clang-format en el directorio raíz de tu proyecto.
 ## Paso 2: Configurar clang-format en Visual Studio Code
 Abre Visual Studio Code.
 Ve a Settings (Configuración):
