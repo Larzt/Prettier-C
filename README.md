@@ -1,5 +1,4 @@
-# Prettier-C++
-# Tutorial: Configuración de .clang-format en Visual Studio Code
+# Tutorial PRETTIER C++: Configuración de .clang-format en Visual Studio Code
 
 ## Prerrequisitos
 Tener instalado Visual Studio Code.
