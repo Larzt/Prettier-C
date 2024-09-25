@@ -8,6 +8,7 @@ Tener instalada la extensión C/C++ en VSC
 ## Paso 1: Crear el archivo .clang-format
 Navega al directorio raíz de tu proyecto.
 Crea un archivo llamado .clang-format en este directorio con el siguiente contenido, basado en la guía de estilo de Google:
+```
 ### Archivo .clang-format basado en la guía de estilo de Google
 BasedOnStyle: Google
 IndentWidth: 2               # Usa una indentación de 2 espacios, como en la guía de Google
@@ -41,8 +42,9 @@ SpaceAfterTemplateKeyword: false       # No deja espacio después de la palabra 
 
 ### Comportamiento de alineación
 AlignTrailingComments: true            # Alinea los comentarios de final de línea
-Guarda el archivo .clang-format en el directorio raíz de tu proyecto (/CYA).
+```
 
+Guarda el archivo .clang-format en el directorio raíz de tu proyecto (/CYA).
 ## Paso 2: Configurar clang-format en Visual Studio Code
 Abre Visual Studio Code.
 Ve a Settings (Configuración):
